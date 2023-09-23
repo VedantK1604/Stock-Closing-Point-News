@@ -6,10 +6,9 @@
 stocks. This information is presented in a user-friendly manner, allowing users to quickly analyze both the financial data and the latest news affecting their investment 
 interests.</p>
 
-<ul>
+<ol>
   <li>The project fetches the closing points of selected stocks from reliable financial APIs</li>
   <li>Relevant news articles are collected using news APIs to provide additional context to the stock data.</li>
   <li>The combined stock data and news articles are presented in an organized and easy-to-read format.</li>
-  <li>The project can be scheduled to run when the difference between yesterday's closing point and the day before yesterday's closing point is more than 5%.</li>
-</ul>
-
+  <li>The project can be scheduled to run when the difference between yesterday's closing point and the day before yesterday's closing point is more than 5% and send the mail to the relevant user.</li>
+</ol>
